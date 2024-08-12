@@ -1,7 +1,8 @@
 h1{
     color: blue;
-    size font-size: 25px;
-}
+
+    size: font-size 25px;
+} 
 
 p{
     color: red;
